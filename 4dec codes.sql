@@ -1,3 +1,4 @@
+-- yap shin yi is very beautiful
 DROP DATABASE IF EXISTS cullinary_studio;
 CREATE DATABASE cullinary_studio;
 USE cullinary_studio;
